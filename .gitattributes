@@ -1,3 +1,4 @@
+browser/node_modules/puppeteer/.local-chromium/linux-672088/chrome-linux/chrome filter=lfs diff=lfs merge=lfs -text
 *.json filter=lfs diff=lfs merge=lfs -text
 *.log filter=lfs diff=lfs merge=lfs -text
 *.jpg filter=lfs diff=lfs merge=lfs -text
