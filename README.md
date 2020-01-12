@@ -1,10 +1,5 @@
 ﻿# Traffic Light Control Assistance for an Isolated Intersection in Dhaka City
 
-nefficient traffic light control in intersections is the main ob- stacle to ensure maximum utilization of traffic infrastructures. Ill-thought infrastructure design has ceased the possibility of an fully-automated system to succeed in regulating traffic flow in intersections. This paper studies the practicality and implementation of a real-time adaptive traf- fic control assistance system, that acquires data from Google Maps API and calculates the optimal green light time for each entry roads of an intersection to minimize average waiting time using an algorithm derived from network flow model. Responsible person will use a handheld device to get the suggestion from the server using RESTful Web API.
-
-
-# Introduction
-
 According to the habitants, traffic congestion is a severe , if not the most severe problem in Dhaka’s urban life[3]. RSTP, 2015 says that average daily speed of traffic is 6.8 kmph in Dhaka which is slightly above average walking speed[1]. A 2017 press release by World Bank blamed the infamous traffic congestion of killing 3.2 million working hours a day[12]. It also has horrendous economic consequences. RSTP for Dhaka estimated the cost to be 11.4 Billion USD on the 2014[1]. 
 
 Different methodologies can be applied to tackle the traffic congestion prob- lem. Bart De Schutter and B De Moor pointed out four specific methods[5]: 
