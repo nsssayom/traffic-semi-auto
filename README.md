@@ -9,10 +9,10 @@ According to the habitants, traffic congestion is a severe , if not the most sev
 
 Different methodologies can be applied to tackle the traffic congestion prob- lem. Bart De Schutter and B De Moor pointed out four specific methods[5]: 
 		
-• Construction of new infrastructures, i.e., roads, flyovers, etc. 
-• Promoting public transports. 
-• Reducing demand by introducing taxes and tolls for using specific infras- tructure. 
-• Ensuring optimized usage of existing resources. 
+ - Construction of new infrastructures, i.e., roads, flyovers, etc. 
+ - Promoting public transports. 
+ - Reducing demand by introducing taxes and tolls for using specific infras- tructure. 
+ - Ensuring optimized usage of existing resources. 
 
 The first three strategies are only useful when the fourth is present. if the optimal usage of resources can not be ensured, adding new resource can not assure the solution to the problem rather than creating a bottleneck in the overall system.
 
